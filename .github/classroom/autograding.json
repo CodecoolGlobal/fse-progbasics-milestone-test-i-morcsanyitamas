@@ -203,7 +203,7 @@
       {
         "name": "2 objects, one has Abacus false, should return 1",
         "setup": "npm install",
-        "run": "npm run test -- -t ' 2 objects, one has Abacus false, should return 1'",
+        "run": "npm run test -- -t '2 objects, one has Abacus false, should return 1'",
         "input": "",
         "output": "",
         "comparison": "exact",
