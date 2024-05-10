@@ -16,7 +16,7 @@ You do not have to deal with the case, when there are only underage users in the
 */
 
 function averageAgeOfAdults(users) {
-
+  return 0;
 }
 
 module.exports = averageAgeOfAdults;
